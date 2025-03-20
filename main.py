@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 
 # Load API keys from environment variables
 load_dotenv()
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+OPENAI_API_KEY = os.getenv("Osk-proj-cFfd3SG1q-AvZVIzsRAsZtrfWu4pYkfuHeyQJaMPDpeKSQHzRL7kLMFgUwV-LO1iVeHYfR332iT3BlbkFJIXPMN5mViSFvJlXfM2r0SJw92kPnNewYwcfJZNBsJc1vzSh-_AIEXp7mtvnRUX4DOW2lF3bAAA")
 
 if not OPENAI_API_KEY:
     raise ValueError("❌ OpenAI API key is missing. Set it in the .env file.")
