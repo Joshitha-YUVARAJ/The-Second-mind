@@ -67,3 +67,7 @@
 
 🔥 **The Second Mind – A Step Towards Human-Like AI Thinking** 🚀  
 
+## Output:
+![image](https://github.com/user-attachments/assets/0760088c-21c4-4f9c-9ebb-4ae69d39e139)
+
+
